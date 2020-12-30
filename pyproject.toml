@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "skorch-beginner"
+version = "0.1.0"
+description = ""
+authors = ["sobamchan <oh.sore.sore.soutarou@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+skorch = "^0.9.0"
+torch = "^1.7.1"
+
+[tool.poetry.dev-dependencies]
+neovim = "^0.3.1"
+ipython = "^7.19.0"
+flake8 = "^3.8.4"
+python-language-server = "^0.36.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
