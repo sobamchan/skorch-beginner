@@ -1,4 +1,5 @@
 Simple sample for [skorch](https://skorch.readthedocs.io/).
+
 Japanese article at [here](https://sotaro.io/ja/skorch-beginner).
 
 ```
