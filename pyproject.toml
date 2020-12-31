@@ -8,6 +8,8 @@ authors = ["sobamchan <oh.sore.sore.soutarou@gmail.com>"]
 python = "^3.8"
 skorch = "^0.9.0"
 torch = "^1.7.1"
+sister = "^0.1.10"
+datasets = "^1.1.3"
 
 [tool.poetry.dev-dependencies]
 neovim = "^0.3.1"
